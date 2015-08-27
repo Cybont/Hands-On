@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<card>
+		<name>Biler</name>
+		<icon>car</icon>
+		<level>2</level>
+		<points>3</points>
+		<resources antal="3">
+			<resource>1</resource>
+			<resource>2</resource>
+			<resource>2</resource>
+		</resources>
+		<facilities>
+			<facility>Veje og Broer</facility>
+			<facility>Veje og Broer</facility>
+			<facility>Strøm og El</facility>
+		</facilities>
+		<desc>
+			Biler er uundværlige for samfundet, hvad enten de kører på benzin
+			eller elektricitet. Biler udvikler sig hele tiden og bliver hurtigere,
+			kører bedre og får nyt design. Derfor er det vigtigt for bilindustrien
+			at ansætte mange medarbejdere, som er dygtige inden for industriområdet
+			til fx at betjene maskiner og svejse og smede. Derudover er der også behov
+			for personer med IT-baggrund, der kan være med til at programmere og
+			udvikle al den avancerede IT, der er i bilerne.
+		</desc>
+	</card>
+</root>
